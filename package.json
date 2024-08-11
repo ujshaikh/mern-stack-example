@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-series-i",
+  "version": "1.0.0",
+  "description": "This a series of articles about MERN Stack, which is popular and essential for developing websites. And this is an in-depth description of Node.js, one of MERN's constituent parts. Please share and add your insightful thoughts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujshaikh/mern-stack-example.git"
+  },
+  "keywords": [
+    "mern-stack",
+    "node.js",
+    "react.js",
+    "express.j",
+    "mongodb",
+    "web-development"
+  ],
+  "author": "Usman Shaikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ujshaikh/mern-stack-example/issues"
+  },
+  "homepage": "https://github.com/ujshaikh/mern-stack-example#readme"
+}
